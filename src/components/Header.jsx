@@ -151,7 +151,7 @@ const Header = () => {
           {/*  logo */}
 
           <img src={Logo} className="w-8 object-cover" alt="logo" />
-          <p className="text-headingColor text-xl font-bold"> City</p>
+          <p className="text-headingColor text-xl font-bold">La Musica Cafe</p>
         </Link>
 
         <div className="relative">
